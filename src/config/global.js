@@ -205,7 +205,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_011.zip',
+        download: 'downloads/821207_CF11_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -336,8 +336,7 @@ export default {
     {
       referencia:
         'Quintero, Y. y León, D. (2018). <em>Cadenas globales de valor en Colombia: un análisis desde el sector cuero, calzado y marroquinería.</em> Universidad de La Salle. ',
-      link:
-        'https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1268&context=finanzas_comercio',
+      link: '',
     },
     {
       referencia:
@@ -359,7 +358,7 @@ export default {
     {
       referencia:
         'Unidad de Planeación Minero Energética [UPME]. (2021). <em>Programa de uso racional y eficiente de la energía - PROURE.</em> Gov.co. ',
-      link: 'https://www1.upme.gov.co/DemandayEficiencia/Paginas/PROURE.aspx',
+      link: '',
     },
     {
       referencia:
